@@ -6,6 +6,6 @@ In addition to my technical skills, I am also a strong communicator and collabor
 
 On my Github profile, you will find some of my recent projects and contributions to various open-source projects. I am always looking for new and exciting projects to work on, so feel free to reach out if you have any ideas or opportunities.
 
-If you have any questions or would like to collaborate on a project, please don't hesitate to contact me. Thank you for visiting my profile, and I look forward to hearing from you!
-
 You can contact me on my personal email adress: adnanesennoune1@gmail.com
+
+Thank you for visiting my profile!
